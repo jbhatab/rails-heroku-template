@@ -7,7 +7,7 @@ gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
-gem 'slim-rails'
+gem 'slim-rails', github: 'ericboehs/slim-rails'
 
 gem 'figaro'
 gem 'rails_12factor', group: :production
