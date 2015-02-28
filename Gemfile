@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.1.2'
+gem 'rails', '4.2.0'
 gem 'pg'
 gem 'bootstrap-sass'
 gem 'sass-rails'
@@ -15,4 +15,4 @@ gem 'unicorn'
 
 gem 'spring',        group: :development
 
-ruby "2.1.1"
+ruby "2.2.0"
